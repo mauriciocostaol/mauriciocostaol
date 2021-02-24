@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**mauriciocostaol/mauriciocostaol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Maurício Ricardo
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Salve Salve Pessoal 👋🏻
+Sou alguém que busca estar em constante evolução em programação.
+
+Sou um desenvolvedor back-end 💻
+
+Atualmente estou em busca do primeiro trabalho como Dev.
+
+No momento estou estudando Java, mas já adquiri um pouco de experiência com ASP.NET.
+
+Buscando colaborar com projetos em Java usando SpringBoot 
+
+Sobre mim: Curto tecnologias e assistir séries na Netflix.
+
+Meus contatos são:
+
+Linkedin: https://www.linkedin.com/in/maur%C3%ADcio-ricardo-de-lima-oliveira-costa-863542158/
+Email: mauriciod37@gmail.com
