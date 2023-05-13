@@ -7,11 +7,9 @@ Sou alguém que busca estar em constante evolução em programação.
 
 Sou um desenvolvedor back-end 💻
 
-Atualmente estou em busca do primeiro trabalho como Dev.
+Atualmente estou em busca de dar continuidade em minha carreira, na área de desenvolvimento.
 
-No momento estou estudando Java, mas já adquiri um pouco de experiência com ASP.NET.
-
-Buscando colaborar com projetos em Java usando SpringBoot 
+Possuo experiência em desenvolvimento com .NET, mas tenho alguns conhecimentos em Java, Javascript, frameworks e libs front-end.
 
 Sobre mim: Curto tecnologias e assistir séries na Netflix.
 
