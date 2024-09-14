@@ -1,19 +1,23 @@
-
-
 # Maurício Ricardo
 
-## Salve Salve Pessoal 👋🏻
-Sou alguém que busca estar em constante evolução em programação.
+## Olá! 👋🏻  
+Sou um desenvolvedor back-end com paixão por resolver problemas através de código.
 
-Sou um desenvolvedor back-end 💻
+### Sobre Mim
+Estou em busca de novas oportunidades para continuar minha carreira de desenvolvimento, com foco em **C# e .NET**. Tenho experiência sólida na construção de soluções robustas e escaláveis utilizando essas tecnologias.
 
-Atualmente estou em busca de dar continuidade em minha carreira, na área de desenvolvimento.
+### O que me motiva?
+- Desenvolver soluções eficientes e bem estruturadas.
+- Colaborar em equipes técnicas para criar software de alta qualidade.
+- Aprender continuamente e aplicar novas técnicas e ferramentas.
 
-Possuo experiência em desenvolvimento com .NET, mas tenho alguns conhecimentos em Java, Javascript, frameworks e libs front-end.
+### Tecnologias que utilizo:
+- **Back-end**: C#, .NET
+- **Banco de Dados**: SQL Server, MySQL
 
-Sobre mim: Curto tecnologias e assistir séries na Netflix.
+### Um pouco mais sobre mim
+Nas horas vagas, gosto de acompanhar as novidades tecnológicas, ler bons livros, jogar video-game  e assistir séries.
 
-Meus contatos são:
-
-Linkedin: https://www.linkedin.com/in/maur%C3%ADcio-ricardo-de-lima-oliveira-costa-863542158/
-Email: mauriciod37@gmail.com
+### Vamos conversar?
+- [LinkedIn](https://www.linkedin.com/in/mauricio-ricardo-de-lima-oliveira-costa/)
+- **Email**: mauriciod37@gmail.com
