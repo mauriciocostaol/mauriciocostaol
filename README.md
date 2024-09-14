@@ -4,7 +4,7 @@
 Sou um desenvolvedor back-end com paixão por resolver problemas através de código.
 
 ### Sobre Mim
-Estou em busca de novas oportunidades para continuar minha carreira de desenvolvimento, com foco em **C# e .NET**. Tenho experiência sólida na construção de soluções robustas e escaláveis utilizando essas tecnologias.
+Estou em busca de novas oportunidades para continuar minha carreira de desenvolvimento, com foco em **C# e .NET**. Estou em busca de novas oportunidades para continuar minha carreira de desenvolvimento, com foco em **C# e .NET**. Apesar de ter pouca experiência, estou sempre aprimorando minhas habilidades e construindo soluções utilizando essas tecnologias.
 
 ### O que me motiva?
 - Desenvolver soluções eficientes e bem estruturadas.
